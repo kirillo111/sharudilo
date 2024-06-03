@@ -1,0 +1,280 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+
+}
+.general{
+  margin: 0;
+}
+header.head{
+  max-width: 1146px;
+}
+.logo{
+   width: 77.66px;
+   height: 21.53px;
+   display: flex;
+   margin-top: 16px;
+   
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    padding: 0;
+}
+.one{
+  text-decoration: none;
+  color: black;
+}
+.two{
+  text-decoration: none;
+  color: black;
+}
+.three{
+  text-decoration: none;
+  color: black;
+}
+.four{
+  text-decoration: none;
+  color: black;
+}
+.text{
+
+  font-size: 50px;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  width: auto;
+}
+.under_text{
+  font-size: 20px;
+}
+ 
+h1{
+  margin: 30px 0px;
+}
+.general_giv{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1167px 597px;
+  justify-content: space-between;
+  
+}
+.part1{
+  margin-left: 12.4px;
+}
+.general_giv{
+  width: 100%;
+  max-width: 1167.35px; 
+  max-height: 597px;
+  margin: 0 auto;
+  margin-top: 40px;
+
+}
+.head{
+  width: 100%;
+  max-width: 1440px; 
+  max-height: 825px;
+  margin: 0 auto;
+}
+
+.pic_1{
+  height: 521px;
+  width: 428px;
+}
+.search{
+  width: 283px;
+  height: 72px;
+  margin: 40px 0px;
+  padding: 0 0;
+  size: 20px;
+}
+.noon{
+    width: 491px;
+    height: 597px;
+}
+
+.button{
+    width: 150px;
+    height: 76px;
+    margin-right: 30px;
+    padding: 0 0;
+    border-radius: 0;
+    border-style: none;
+    background-color: rgb(54, 27, 175);
+    color: white;
+    margin-left: -5px;
+    cursor: pointer;
+    
+
+}
+
+.back{
+    width: 1440px;
+    height: 825px;
+    display: flex;
+    margin: 0 auto;
+
+}
+.container{
+  margin-top: 200px;
+}
+.title{
+    position: absolute;
+    height: 52px;
+    width: 100%;
+    text-align: center;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 52px;
+    font-weight: 600;
+    margin-top: 150px;
+    
+}
+.list{
+  max-width: 1146px;
+  margin: 0 auto;
+}
+
+.backet{
+  display: flex; 
+  justify-content: space-between; 
+  list-style-type: none;
+  position: absolute;
+  margin-top: 300px;
+  padding: 0;
+  width: 1146px;
+  
+}
+.item{
+  width: 362px;
+  height: 389px;
+  background: white;
+  margin: 20px;
+}
+.rest{
+  margin-left: 25px;
+}
+.more{
+  text-decoration: none;
+  color: blue;
+}
+.number3{
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 52px;
+    font-weight: 600;
+}
+.bt1{
+  text-decoration: none;
+  color: blue;
+}
+.container_3{
+  width: 545px;
+  height: 368px;
+  margin-top: 70px;
+}
+.block_3{
+  display: flex;
+  justify-content: space-between;
+  width: 1440px;
+  margin: 0 auto;
+}
+.ab{
+  position: absolute;
+  margin-left: 713px;
+  margin-top: 50px;
+  width: 436px;
+  height: 343px;
+
+}
+.p1{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  size: 20px;
+  line-height: 28px;
+}
+.p7{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  size: 16px;
+  line-height: 22.4px;
+}
+.block_3{
+  height: 771px;
+  align-items: center;
+}
+.fav{
+  width: 1440px;
+  height: 883px;
+  margin: 0 auto;
+}
+
+li{
+  margin-top: 20px;
+}
+.smec{
+  margin: 0 0 0 240px;
+  margin-top: -30px;
+}
+.Two_fff{
+  display: flex;
+  margin-left: 37px;
+}
+.fff1{
+width: 227px;
+height: 250px;
+}
+.fff2{
+width: 227px;
+height: 250px;
+  
+}
+.fff3{
+  width: 474px;
+  height: 166px;
+  margin-left: 26px;
+}
+.Three_fff{
+  position: absolute;
+}
+.Base{
+  width: 534px;
+  height: 500px;
+}
+.block_4{
+  display: flex;
+  justify-content: space-between;
+  width: 1440px;
+  height: 656px;
+  align-items: center;
+  margin: auto;
+}
+.sub{
+  width: 545px;
+  height: 369px;
+}
+.Hq{
+  font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 52px;
+    font-weight: 600;
+}
+.Pq{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  size: 20px;
+  line-height: 28px;
+}
+.bt2{
+  text-decoration: none;
+  color: blue;
+}
