@@ -306,12 +306,12 @@ height: 250px;
 .vector{
   position: absolute;
   margin-top: -525px;
-  margin-left: 320px;
+  margin-left: 86px;
 
 }
 .man{
   position: absolute;
-  margin-left: 368px;
+  margin-left: 136px;
   width: 362px;
   height: 500px;
   border-radius: 5px;
@@ -333,36 +333,47 @@ height: 250px;
   font-size: 30px;
   line-height: 39px;
   color: white;
-  margin-left: 800px;
-  margin-top: -300px;
+  margin-left: 580px;
+  margin-top: -370px;
 }
 .vector1{
   position: absolute;
   top: -20px;
-  right: 368px;
+  right: 137px;
   transform: rotate(180deg);
 }
+
+.block_5{
+  width: 1440px;
+  height: 919px;
+  margin: 0 auto;
+}
+.title6{
+  text-align: center;
+  margin: 0 auto;
+  height: 116px;
+  width: 989px;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: 68.2px;
+  font-size: 62px;
+  font-weight: 600;
+  margin-top: 150px;
+}
 .un1{
-  padding-top: 40px;
-  width: 561px;
-  height: 144px;
   font-family: "Work Sans", sans-serif;
   font-weight: 600;
-  font-size: 30px;
-  line-height: 39px;
-  color: white;
-  margin-left: 800px;
-  margin-top: -300px;
-  }
+  font-size: 20px;
+  line-height: 26px;
+  display: flex;
+  margin-top: 40px ;
+}
 .un2{
-  padding-top: 20px;
-  width: 561px;
-  height: 144px;
   font-family: "Work Sans", sans-serif;
   font-weight: 600;
-  font-size: 30px;
-  line-height: 39px;
-  color: white;
-  margin-left: 800px;
-  margin-top: -300px;
+  font-size: 20px;
+  line-height: 26px;
+  color: gray;
+  ;
 }
